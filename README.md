@@ -1,4 +1,4 @@
-responsive navigation bar
+responsive web navigation bar
 
 language: html, css and javascript
 
